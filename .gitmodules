@@ -1,0 +1,3 @@
+[submodule "child_dir"]
+	path = child_dir
+	url = https://github.com/keydaimona/testrepo_child.git
